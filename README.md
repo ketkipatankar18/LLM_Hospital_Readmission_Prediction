@@ -129,7 +129,7 @@ Reasoning was evaluated only when the model's prediction matched ground truth. F
 ## Repository Structure
 
 ```
-llm-hospital-readmission-prediction/
+LLM_Hospital_Readmission_Prediction/
 │
 ├── notebooks/
 │   ├── data_pipeline.ipynb          # Cohort construction, sample selection, vitals extraction
@@ -163,8 +163,8 @@ llm-hospital-readmission-prediction/
 ### Install Dependencies
 
 ```bash
-git clone https://github.com/your-username/llm-hospital-readmission-prediction.git
-cd llm-hospital-readmission-prediction
+git clone https://github.com/ketkipatankar18/LLM_Hospital_Readmission_Prediction.git
+cd LLM_Hospital_Readmission_Prediction
 pip install -r requirements.txt
 ```
 
